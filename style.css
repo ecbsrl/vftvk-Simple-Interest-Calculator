@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:white;}
+h1{color:gray;}
 
+.container{
+    width:100%;
+    background-color:tan;
+}
 
+.container input{
+    
+}
+
+label{
+    display: block;
+    padding: 5px;
+}
+
+label span {
+    display: inline-block;
+    text-align: left;
+    width: 100px;
+}
+
+.pippo{
+    width:50px;
+}
